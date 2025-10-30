@@ -1,5 +1,11 @@
 # Analisis Data Penjualan Coffee Shop
 
+## 👥 Anggota
+1. Zahid Abdullah Nur Mukhlishin - 103102400034
+2. Fellycia Khoo - 103102400010
+3. Auliya Nisa' Nur Rohmah - 103102400056
+4. Sesilia Widya Nurmala Diaz - 103102400074
+
 
 ## 🗃️ Dataset
 
